@@ -105,6 +105,7 @@ require_once(ABSPATH . 'wp-settings.php');
 
 /* http://localhost/wordpress/wp-admin/themes.php
 
+y8)&yiUTs27dNoH)wV
 
 http://localhost/wordpress/wp-admin/themes.php?page=starter-templates&ci=5
 */
