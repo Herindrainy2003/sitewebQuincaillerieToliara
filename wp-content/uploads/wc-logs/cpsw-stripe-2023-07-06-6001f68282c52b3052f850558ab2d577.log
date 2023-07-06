@@ -1,0 +1,19 @@
+2023-07-06T14:40:07+00:00 ERROR Your card's expiration date is incomplete.
+----
+2023-07-06T14:40:07+00:00 ERROR Your card's expiration date is incomplete.
+----
+2023-07-06T14:41:16+00:00 ERROR Your card's security code is incomplete.
+----
+2023-07-06T14:41:16+00:00 ERROR Your card's security code is incomplete.
+----
+2023-07-06T14:41:59+00:00 ERROR Your card's security code is incomplete.
+----
+2023-07-06T14:42:00+00:00 ERROR Your card's security code is incomplete.
+----
+2023-07-06T14:42:25+00:00 ERROR Your card's security code is incomplete.
+----
+2023-07-06T14:42:25+00:00 ERROR Your card's security code is incomplete.
+----
+2023-07-06T14:46:33+00:00 INFO Begin processing payment with new payment method for order 4983 for the amount of 9270
+2023-07-06T14:46:41+00:00 INFO Payment successful Order id - 4983
+----
