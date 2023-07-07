@@ -1,0 +1,4 @@
+2023-07-07T05:26:20+00:00 INFO Begin processing payment with new payment method for order 5079 for the amount of 1035000
+2023-07-07T05:26:26+00:00 INFO Payment method tokenized for Order id - 5079 with token id -  1
+2023-07-07T05:26:28+00:00 INFO Payment successful Order id - 5079
+----
