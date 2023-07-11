@@ -1,0 +1,10 @@
+2023-07-10T19:08:37+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /opt/lampp/htdocs/wordpress/wp-content/plugins/pop-up-pop-up/pop-up-pop-up.php:279
+Stack trace:
+#0 /opt/lampp/htdocs/wordpress/wp-content/plugins/pop-up-pop-up/pop-up-pop-up.php(214): wp_mypopups_file_code()
+#1 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(308): {closure}('')
+#2 /opt/lampp/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/wordpress/wp-admin/admin-ajax.php(188): do_action('wp_ajax_wp_mypo...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/wordpress/wp-content/plugins/pop-up-pop-up/pop-up-pop-up.php on line 279
+

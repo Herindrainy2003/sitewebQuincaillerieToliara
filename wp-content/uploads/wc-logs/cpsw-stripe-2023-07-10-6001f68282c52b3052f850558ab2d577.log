@@ -1,0 +1,4 @@
+2023-07-10T08:01:29+00:00 INFO Begin processing payment with saved payment method for order 5089 for the amount of 789000
+2023-07-10T08:01:30+00:00 INFO Processing: ch_3NSF2DAETTDgoNqJ0ZoHxGA8
+2023-07-10T08:01:33+00:00 INFO Stripe charge complete (Charge ID: ch_3NSF2DAETTDgoNqJ0ZoHxGA8)
+----
